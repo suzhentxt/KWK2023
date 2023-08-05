@@ -182,6 +182,14 @@
   width: 312px;
   height: 488px;
 }
+.biablobin {
+  position: absolute;
+  top: 1244px;
+  left: 995px;
+  display: inline-block;
+  width: 147px;
+  height: 15px;
+}
 .data-scientist,
 .graphic-designer,
 .suzhentxt,
