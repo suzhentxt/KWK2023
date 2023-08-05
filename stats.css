@@ -883,15 +883,16 @@
   width: 1280px;
   height: 158px;
 }
-.rose-tinted-glasses,
+.rose-coloured-receipts2,
 .transparent-data-fair1 {
   position: absolute;
   top: 38px;
-  left: 4px;
+  left: 7px;
   font-size: var(--font-size-13xl);
+  font-family: var(--font-roboto-condensed);
   color: var(--color-linen-200);
   display: inline-block;
-  width: 340px;
+  width: 388px;
   height: 90px;
 }
 .transparent-data-fair1 {
