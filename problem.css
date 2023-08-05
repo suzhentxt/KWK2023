@@ -32,7 +32,7 @@
   width: 379px;
   height: 280px;
 }
-.group-child67 {
+.group-child59 {
   position: absolute;
   top: 0;
   left: 0;
@@ -40,7 +40,7 @@
   width: 1280px;
   height: 576px;
 }
-.message3 {
+.message2 {
   position: absolute;
   top: 367px;
   left: 548px;
@@ -48,7 +48,7 @@
   width: 97px;
   height: 26px;
 }
-.group-child68 {
+.group-child60 {
   position: absolute;
   top: 432px;
   left: 546.5px;
@@ -57,7 +57,7 @@
   width: 690px;
   height: 3px;
 }
-.subject6 {
+.subject4 {
   position: absolute;
   top: 259px;
   left: 548px;
@@ -65,7 +65,7 @@
   width: 79px;
   height: 26px;
 }
-.group-child69 {
+.group-child61 {
   position: absolute;
   top: 324px;
   left: 546.5px;
@@ -74,9 +74,9 @@
   width: 690px;
   height: 3px;
 }
-.email3,
-.lets-connect3,
-.name3 {
+.email2,
+.lets-connect2,
+.name2 {
   position: absolute;
   top: 39px;
   left: 941px;
@@ -84,14 +84,14 @@
   width: 58px;
   height: 23px;
 }
-.lets-connect3,
-.name3 {
+.lets-connect2,
+.name2 {
   top: 36px;
   left: 548px;
   width: 67px;
   height: 26px;
 }
-.lets-connect3 {
+.lets-connect2 {
   top: 123px;
   left: 0;
   font-size: var(--font-size-36xl);
@@ -100,7 +100,7 @@
   width: 510px;
   height: 61px;
 }
-.group-child71 {
+.group-child63 {
   position: absolute;
   top: 101.5px;
   left: 546.5px;
@@ -109,7 +109,7 @@
   width: 290.02px;
   height: 3px;
 }
-.phone3 {
+.phone2 {
   position: absolute;
   top: 151px;
   left: 548px;
@@ -117,7 +117,7 @@
   width: 67px;
   height: 26px;
 }
-.group-child72 {
+.group-child64 {
   position: absolute;
   top: 216.5px;
   left: 546.5px;
@@ -126,7 +126,7 @@
   width: 290.02px;
   height: 3px;
 }
-.address3 {
+.address2 {
   position: absolute;
   top: 151px;
   left: 941px;
@@ -134,8 +134,8 @@
   width: 82px;
   height: 26px;
 }
-.group-child73,
-.group-child74 {
+.group-child65,
+.group-child66 {
   position: absolute;
   top: 216.5px;
   left: 939.5px;
@@ -144,10 +144,10 @@
   width: 290.02px;
   height: 3px;
 }
-.group-child74 {
+.group-child66 {
   top: 101.5px;
 }
-.group-child75 {
+.group-child67 {
   position: absolute;
   top: 481px;
   left: 548px;
@@ -155,7 +155,7 @@
   width: 125px;
   height: 46px;
 }
-.submit3 {
+.submit2 {
   position: absolute;
   top: 490px;
   left: 575px;
@@ -163,7 +163,7 @@
   width: 71px;
   height: 26px;
 }
-.group-div {
+.rectangle-container {
   position: absolute;
   top: 2874px;
   left: 0;
@@ -392,8 +392,8 @@
   width: 1280px;
   height: 158px;
 }
-.rose-coloured-receipts3,
-.transparent-data-fair3 {
+.rose-coloured-receipts1,
+.transparent-data-fair2 {
   position: absolute;
   top: 35px;
   left: 24px;
@@ -403,17 +403,17 @@
   width: 355px;
   height: 90px;
 }
-.transparent-data-fair3 {
+.transparent-data-fair2 {
   top: 83px;
   left: 20px;
   font-size: var(--font-size-xl);
   width: 384px;
   height: 84px;
 }
-.home4,
-.problem5,
-.solution4,
-.statistics3 {
+.home2,
+.problem3,
+.solution3,
+.statistics2 {
   position: absolute;
   top: 68px;
   font-size: var(--font-size-mini);
@@ -421,30 +421,30 @@
   display: inline-block;
   height: 22px;
 }
-.home4 {
-  left: 880px;
+.home2 {
+  left: 876px;
   width: 53px;
   cursor: pointer;
 }
-.problem5,
-.solution4,
-.statistics3 {
+.problem3,
+.solution3,
+.statistics2 {
   width: 71px;
 }
-.problem5 {
-  left: 966px;
+.problem3 {
+  left: 962px;
   color: var(--color-linen-100);
 }
-.solution4,
-.statistics3 {
-  left: 1172px;
+.solution3,
+.statistics2 {
+  left: 1168px;
   cursor: pointer;
 }
-.solution4 {
-  left: 1070px;
+.solution3 {
+  left: 1066px;
   width: 69px;
 }
-.problem4 {
+.problem2 {
   position: relative;
   background-color: var(--color-white);
   width: 100%;
