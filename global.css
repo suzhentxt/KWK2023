@@ -13,24 +13,24 @@ body {
   --font-size-mini: 15px;
   --font-size-xl: 20px;
   --font-size-13xl: 32px;
+  --font-size-6xl: 25px;
+  --font-size-36xl: 55px;
   --font-size-21xl: 40px;
   --font-size-26xl: 45px;
   --font-size-7xl: 26px;
   --font-size-11xl: 30px;
-  --font-size-6xl: 25px;
-  --font-size-36xl: 55px;
 
   /* Colors */
   --color-linen-100: #f1e9e6;
   --color-linen-200: #f0e9e6;
   --color-black: #000;
+  --color-white: #fff;
   --color-brown-100: #b62b4d;
   --color-brown-200: #b52b4b;
-  --color-lightslategray: #829199;
-  --color-gainsboro-100: #e5d8ce;
-  --color-lightpink: #fea5b6;
-  --color-silver: #d3c4bb;
-  --color-indianred: #d64367;
   --color-antiquewhite: #eadacd;
-  --color-white: #fff;
+  --color-silver: #d3c4bb;
+  --color-gainsboro-100: #e5d8ce;
+  --color-lightslategray: #829199;
+  --color-lightpink: #fea5b6;
+  --color-indianred: #d64367;
 }

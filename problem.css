@@ -32,7 +32,7 @@
   width: 379px;
   height: 280px;
 }
-.group-child59 {
+.group-child67 {
   position: absolute;
   top: 0;
   left: 0;
@@ -40,7 +40,7 @@
   width: 1280px;
   height: 576px;
 }
-.message2 {
+.message3 {
   position: absolute;
   top: 367px;
   left: 548px;
@@ -48,7 +48,7 @@
   width: 97px;
   height: 26px;
 }
-.group-child60 {
+.group-child68 {
   position: absolute;
   top: 432px;
   left: 546.5px;
@@ -57,7 +57,7 @@
   width: 690px;
   height: 3px;
 }
-.subject4 {
+.subject6 {
   position: absolute;
   top: 259px;
   left: 548px;
@@ -65,7 +65,7 @@
   width: 79px;
   height: 26px;
 }
-.group-child61 {
+.group-child69 {
   position: absolute;
   top: 324px;
   left: 546.5px;
@@ -74,9 +74,9 @@
   width: 690px;
   height: 3px;
 }
-.email2,
-.lets-connect2,
-.name2 {
+.email3,
+.lets-connect3,
+.name3 {
   position: absolute;
   top: 39px;
   left: 941px;
@@ -84,14 +84,14 @@
   width: 58px;
   height: 23px;
 }
-.lets-connect2,
-.name2 {
+.lets-connect3,
+.name3 {
   top: 36px;
   left: 548px;
   width: 67px;
   height: 26px;
 }
-.lets-connect2 {
+.lets-connect3 {
   top: 123px;
   left: 0;
   font-size: var(--font-size-36xl);
@@ -100,7 +100,7 @@
   width: 510px;
   height: 61px;
 }
-.group-child63 {
+.group-child71 {
   position: absolute;
   top: 101.5px;
   left: 546.5px;
@@ -109,7 +109,7 @@
   width: 290.02px;
   height: 3px;
 }
-.phone2 {
+.phone3 {
   position: absolute;
   top: 151px;
   left: 548px;
@@ -117,7 +117,7 @@
   width: 67px;
   height: 26px;
 }
-.group-child64 {
+.group-child72 {
   position: absolute;
   top: 216.5px;
   left: 546.5px;
@@ -126,7 +126,7 @@
   width: 290.02px;
   height: 3px;
 }
-.address2 {
+.address3 {
   position: absolute;
   top: 151px;
   left: 941px;
@@ -134,8 +134,8 @@
   width: 82px;
   height: 26px;
 }
-.group-child65,
-.group-child66 {
+.group-child73,
+.group-child74 {
   position: absolute;
   top: 216.5px;
   left: 939.5px;
@@ -144,10 +144,10 @@
   width: 290.02px;
   height: 3px;
 }
-.group-child66 {
+.group-child74 {
   top: 101.5px;
 }
-.group-child67 {
+.group-child75 {
   position: absolute;
   top: 481px;
   left: 548px;
@@ -155,7 +155,7 @@
   width: 125px;
   height: 46px;
 }
-.submit2 {
+.submit3 {
   position: absolute;
   top: 490px;
   left: 575px;
@@ -163,7 +163,7 @@
   width: 71px;
   height: 26px;
 }
-.rectangle-container {
+.group-div {
   position: absolute;
   top: 2874px;
   left: 0;
@@ -392,8 +392,8 @@
   width: 1280px;
   height: 158px;
 }
-.rose-coloured-receipts1,
-.transparent-data-fair2 {
+.rose-coloured-receipts3,
+.transparent-data-fair3 {
   position: absolute;
   top: 35px;
   left: 24px;
@@ -403,17 +403,17 @@
   width: 355px;
   height: 90px;
 }
-.transparent-data-fair2 {
+.transparent-data-fair3 {
   top: 83px;
   left: 20px;
   font-size: var(--font-size-xl);
   width: 384px;
   height: 84px;
 }
-.home2,
-.problem3,
-.solution3,
-.statistics2 {
+.home4,
+.problem4,
+.solution4,
+.statistics3 {
   position: absolute;
   top: 68px;
   font-size: var(--font-size-mini);
@@ -421,30 +421,30 @@
   display: inline-block;
   height: 22px;
 }
-.home2 {
+.home4 {
   left: 876px;
   width: 53px;
   cursor: pointer;
 }
-.problem3,
-.solution3,
-.statistics2 {
+.problem4,
+.solution4,
+.statistics3 {
   width: 71px;
 }
-.problem3 {
+.problem4 {
   left: 962px;
   color: var(--color-linen-100);
 }
-.solution3,
-.statistics2 {
+.solution4,
+.statistics3 {
   left: 1168px;
   cursor: pointer;
 }
-.solution3 {
+.solution4 {
   left: 1066px;
   width: 69px;
 }
-.problem2 {
+.problem3 {
   position: relative;
   background-color: var(--color-white);
   width: 100%;
